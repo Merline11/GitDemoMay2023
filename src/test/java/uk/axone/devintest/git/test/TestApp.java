@@ -8,4 +8,8 @@ public class TestApp {
     public void test1(){
         System.out.println("Running test 1");
     }
+
+    private void doSomething(){
+        System.out.println("doing something");
+    }
 }
