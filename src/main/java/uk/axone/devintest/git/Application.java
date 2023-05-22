@@ -9,4 +9,8 @@ public class Application {
     private void doSomething(){
         System.out.println("doing something");
     }
+
+    public void doSomethingInDevBranch(){
+        System.out.println("doing something in dev branch");
+    }
 }
